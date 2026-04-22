@@ -7,11 +7,15 @@
 - 开发平台：百度 AI Studio
 - 框架版本：PaddlePaddle 2.4.0
 - Python 版本：3.8
-- 依赖库：
-  - numpy
-  - matplotlib
-  - pillow
-  - paddlevision
+
+##依赖库：
+- paddlepaddle（飞桨核心框架）
+- numpy（数值计算）
+- matplotlib（图像绘制与可视化）
+- pillow（图像处理）
+- os（文件操作，Python 内置）
+- glob（文件路径查找，Python 内置）
+- warnings（警告控制，Python 内置）
 
 ## 项目文件
 - `10242601.ipynb`：主代码文件（Jupyter Notebook）
